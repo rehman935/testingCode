@@ -1,3 +1,13 @@
+
+class Config2:
+    # Input Columns
+    TICKET_SUMMARY = 'Ticket Summary'
+    INTERACTION_CONTENT = 'Interaction content'
+class Config3:
+    # Input Columns
+    TICKET_SUMMARY = 'Ticket Summary'
+    INTERACTION_CONTENT = 'Interaction content'
+
 class Config:
     # Input Columns
     TICKET_SUMMARY = 'Ticket Summary'
